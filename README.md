@@ -24,7 +24,7 @@ A responsive Amazon homepage clone built using HTML and CSS. This project replic
 - Grid layout of product cards (boxes) with images and CTAs
 - Fully styled footer with multiple sections
 
-  ## 🖥️ How to Run Locally
+## 🖥️ How to Run Locally
 
 1. Clone this repo:
    ```bash
