@@ -11,7 +11,7 @@ A responsive Amazon homepage clone built using HTML and CSS. This project replic
 - **CSS3**
 - **Font Awesome** (for icons)
 
-- ## 📦 Features
+## 📦 Features
 
 - Responsive top navigation bar
 - Delivery location UI
